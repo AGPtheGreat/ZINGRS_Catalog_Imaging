@@ -3,7 +3,7 @@ This code is for a project I was apart of from June 2023 to May 2025 during my l
 with two physics professors at my school. My project was a part of a larger, collaborative project with students and faculty from Cornell University in Ithaca, New York.
 The project is called ZINGRS which stands for Zeus INvestigated Galaxy Reference Sample. Zeus is the name of a telescope which was used to detect galaxies around
 redshift ('z') 1, which is 7 billion light years away from us here on Earth. Then, once the galaxies were selected, each were observed by the Very Large Array or VLA which
-is located in Socorro County, New Mexico. Most of the galaxies were observed in two radio bands. There are roughly 30 galaxies in total that were included in ZINGRS
+is located in Socorro County, New Mexico. Most of the galaxies were observed in two radio bands. There are roughly 30 galaxies in total that were included in ZINGRS.
 
 ## My Contributions
 
